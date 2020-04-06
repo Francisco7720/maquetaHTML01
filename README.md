@@ -9,3 +9,4 @@ Pasos a seguir:
 * Inicio de Sesion
 * Actualizar datos
 
+No olvidar las pruebas de integración.
