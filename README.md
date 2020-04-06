@@ -9,3 +9,5 @@ Pasos a seguir:
 * Inicio de Sesion
 * Actualizar datos
 
+Al finalizar el proyecto se deben agregar pruebas unitarias.
+
